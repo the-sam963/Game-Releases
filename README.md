@@ -1,7 +1,7 @@
-Hey, This is Sam, Founder CEO of AcePic Studio. 
-Here's a list of my Indie Games. Hpoe you'll enjoy it.
-If you want to join our community check the links bellow.
-Thamk you...
+Hey, This is Sam, Founder CEO of AcePic Studio.__
+Here's a list of my Indie Games. Hpoe you'll enjoy it.\
+If you want to join our community check the links bellow.<br>
+Thank you...
 
 
 
@@ -15,7 +15,7 @@ Thamk you...
 
 
 
-## Want to Join Our Community???
+### Want to Join Our Community???
 * [Community Discord Server](https://discord.gg/e7JQr2smGD)
 * [FaceBook](https://www.facebook.com/acepic.studio)
 * [InstaGram](https://www.instagram.com/acepicstudio/)
