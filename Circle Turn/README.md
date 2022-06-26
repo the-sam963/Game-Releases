@@ -23,4 +23,5 @@ Hope You'll enjoy the game. If you want to join our community check the links be
 
 
 
-Thank You
+     Thank You\
+Team AcePic Studio
