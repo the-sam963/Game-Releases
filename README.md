@@ -23,5 +23,4 @@ Thamk you...
 
 
 
-     Thank You
- Team AcePic Studio
+Thank You
