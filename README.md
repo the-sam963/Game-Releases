@@ -1,5 +1,5 @@
 Hey, This is Sam, Founder CEO of AcePic Studio.\
-Here's a list of my Indie Games. Hpoe you'll enjoy it.\
+Here's a list of our Indie Games. Hpoe you'll enjoy it.\
 If you want to join our community check the links bellow.\
 Thank you...
 
