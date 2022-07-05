@@ -23,5 +23,5 @@ Thank you...
 
 
 
-     Thank You\
+\tThank You\
 Team AcePic Studio
