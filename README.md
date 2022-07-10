@@ -7,10 +7,19 @@ Thank you...
 
 
 # All RELEASES
+
 ### 1. Circle Turn (Beta)
 * Publishre : AcePic Studio
 * Developer : Sam
-* First Release : 26 June 2022.
+* First Build : 26 June 2022
+* On GitHub - 26 June 2022
+
+
+### 2. Attack-on-Galaxy
+* Publishre : AcePic Studio
+* Developer : Sam
+* First Build : 13 April, 2022
+* On GitHub - 10 July, 2022
 
 
 
