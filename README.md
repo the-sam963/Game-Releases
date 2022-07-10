@@ -14,7 +14,6 @@ Thank you...
 * First Build : 26 June 2022
 * On GitHub - 26 June 2022
 
-
 ### 2. Attack-on-Galaxy
 * Publishre : AcePic Studio
 * Developer : Sam
